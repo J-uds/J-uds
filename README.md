@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h2 align="left">Hi 👋! My name is Judit</h2>
+<h2 align="left">Hi 👋! My name is Judit 😊</h2>
 
 ###
 
