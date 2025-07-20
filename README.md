@@ -3,30 +3,30 @@
 ###
 
 <p align="left">
-  I'm a <strong>Junior Java Backend Developer</strong> with a scientific background, currently transitioning into the tech industry.<br><br>
+  I'm a <strong>Junior Java Backend Developer</strong> with a scientific background, currently transitioning into the tech industry.<br>
+  
+  After several years working in <strong>research laboratories</strong> and <strong>quality control</strong> across Spain, the UK, Italy, and Germany, I decided to apply my <strong>analytical mindset</strong>, <strong>rigor</strong>, and <strong>adaptability</strong> to the world of software development. I'm currently focusing on <strong>backend systems</strong> and <strong>DevOps practices</strong>.<br>
 
-  After several years working in <strong>research laboratories</strong> and <strong>quality control</strong> across Spain, the UK, Italy, and Germany, I decided to apply my <strong>analytical mindset</strong>, <strong>rigor</strong>, and <strong>adaptability</strong> to the world of software development. I'm currently focusing on <strong>backend systems</strong> and <strong>DevOps practices</strong>.<br><br>
+  🌱 <strong>Building solid foundations in:</strong><br>
 
-  🛠️ <strong>Building solid foundations in:</strong><br><br>
+  💻 <strong>Java · Spring Boot · REST APIs · Lombok</strong><br>
+  🗄️ <strong>MySQL · JPA · Hibernate</strong><br>
+  🔐 <strong>Spring Security · JWT</strong><br>
+  🧪 <strong>JUnit · Mockito</strong><br>
+  🐳 <strong>Docker · CI/CD · Jenkins · Kubernetes</strong><br>
+  🔁 <strong>Git · Agile · Scrum</strong><br>
 
-  💻 <strong>Java · Spring Boot · REST APIs · Lombok</strong><br><br>
-  🗄️ <strong>MySQL · JPA · Hibernate</strong><br><br>
-  🔐 <strong>Spring Security · JWT</strong><br><br>
-  🧪 <strong>JUnit · Mockito</strong><br><br>
-  🐳 <strong>Docker · CI/CD · Jenkins · Kubernetes</strong><br><br>
-  🔁 <strong>Git · Agile · Scrum</strong><br><br>
+  I bring a <strong>scientific mindset</strong> to software: structured thinking, attention to detail, and a constant drive to learn and improve. I'm used to handling <strong>complex systems</strong>, tight deadlines, and evolving challenges.<br>
 
-  I bring a <strong>scientific mindset</strong> to software: structured thinking, attention to detail, and a constant drive to learn and improve. I'm used to handling <strong>complex systems</strong>, tight deadlines, and evolving challenges.<br><br>
+  🔎 <strong>Interests and Goals:</strong><br>
 
-  🔎 <strong>Interests and Goals:</strong><br><br>
+  🔧🔐 <strong>Building clean, secure, and maintainable APIs</strong><br>
+  🧪🚀 <strong>Learning best practices for testing and deployment</strong><br>
+  🤝🌱 <strong>Growing within a collaborative, agile team</strong><br>
 
-  🔧🔐 <strong>Building clean, secure, and maintainable APIs</strong><br><br>
-  🧪🚀 <strong>Learning best practices for testing and deployment</strong><br><br>
-  🤝🌱 <strong>Growing within a collaborative, agile team</strong><br><br>
+  Whether working with pipettes or code, I enjoy solving problems and improving systems.<br>
 
-  Whether working with pipettes or code, I enjoy solving problems and improving systems.<br><br>
-
-  📚 <strong>Always learning, always curious.</strong><br><br>
+  📚 <strong>Always learning, always curious.</strong><br>
   ☕ Powered by coffee and creativity.
 </p>
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h2 align="left">Working with</h2>
+<h2 align="left">🛠️ Working with</h2>
 
 ###
 
