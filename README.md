@@ -78,7 +78,8 @@
 
 ###
 
-<p align="left"><strong>Also working with:</strong><br><strong>REST APIs · Spring Boot · Spring Security · JWT · Lombok · MVC architecture · Automated Testing (JUnit, Mockito) · Clean Code & SOLID principles · Agile methodologies (Scrum)</strong></p>
+<h6 align="left"><strong>Also working with:</strong></h6>
+<p><strong>REST APIs · Spring Boot · Spring Security · JWT · Lombok · MVC Architecture · Automated Testing (JUnit, Mockito) · Clean Code & SOLID Principles · Agile Methodologies (Scrum)</strong></p>
 
 ###
 
