@@ -38,7 +38,7 @@
 
 ###
 
-<div align="left">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start;">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
