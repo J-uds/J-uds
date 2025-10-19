@@ -12,12 +12,12 @@
   🗄️ <strong>MySQL · JPA · Hibernate</strong><br>
   🔐 <strong>Spring Security · JWT</strong><br>
   🧪 <strong>JUnit · Mockito</strong><br>
-  🐳 <strong>Docker · CI/CD · Jenkins · Kubernetes</strong><br>
+  🐳 <strong>Docker · CI/CD</strong><br>
   🔁 <strong>Git · Agile · Scrum</strong><br><br>
 
   🔎 <strong>What I’m focused on:</strong><br>
   🔧🔐 <strong>Clean, secure, and maintainable APIs</strong><br>
-  🧪🚀 <strong>Testing and deployment best practices</strong><br>
+  🧪🚀 <strong>Testing and deployment good practices</strong><br>
   🤝🌱 <strong>Collaborative, agile teamwork</strong><br><br>
 
   📚 <strong>Always learning, always curious.</strong><br>
