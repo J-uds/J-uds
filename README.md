@@ -8,33 +8,21 @@
   I bring a <strong>structured mindset</strong>, <strong>attention to detail</strong>, and a passion for <strong>continuous learning</strong>. I enjoy solving problems and building reliable, maintainable software 🙂<br><br>
 
   🌱 <strong>Core stack:</strong><br>
-  💻 <strong>Java · Spring Boot · REST APIs · Lombok</strong><br>
-  🗄️ <strong>MySQL · JPA · Hibernate</strong><br>
-  🔐 <strong>Spring Security · JWT</strong><br>
-  🧪 <strong>JUnit · Mockito</strong><br>
-  🐳 <strong>Docker · CI/CD</strong><br>
-  🔁 <strong>Git · Agile · Scrum</strong><br><br>
+   <strong>Java · Spring Boot · REST APIs · Lombok</strong><br>
+   <strong>MySQL · JPA · Hibernate</strong><br>
+   <strong>Spring Security · JWT</strong><br>
+   <strong>JUnit · Mockito</strong><br>
+   <strong>Docker · CI/CD</strong><br>
+   <strong>Git · Agile · Scrum</strong><br><br>
 
-  🔎 <strong>What I’m focused on:</strong><br>
-  🔧🔐 <strong>Clean, secure, and maintainable APIs</strong><br>
-  🧪🚀 <strong>Testing and deployment good practices</strong><br>
-  🤝🌱 <strong>Collaborative, agile teamwork</strong><br><br>
 
-  📚 <strong>Always learning, always curious.</strong><br>
+   <strong>Always learning, always curious.</strong><br>
   ☕ Powered by coffee and creativity.
 </p>
 
 ###
 
-<h2 align="left">📊 Top Languages</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J-uds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">🛠️ Working with</h2>
+<h2 align="left">Working with</h2>
 
 ###
 
@@ -63,19 +51,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-
-###
-
-<p align="left"><strong>Also working with:</strong></p>
-<p><strong>REST APIs · Spring Boot · Spring Security · JWT · Lombok · MVC Architecture · Automated Testing (JUnit, Mockito) · Clean Code & SOLID Principles · Agile Methodologies (Scrum)</strong></p>
 
 ###
 
