@@ -17,7 +17,7 @@ I bring a **structured mindset**, attention to detail, and a passion for continu
 
 ### Core Stack
 
-| Area | Technologies |
+| Area | Tools and Technologies |
 | :--- | :--- |
 | **Backend** | `Java` · `Spring Boot` · `REST APIs` · `Lombok` |
 | **Persistence** | `MySQL` · `JPA` · `Hibernate` |
